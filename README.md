@@ -1,4 +1,4 @@
-Heartland Cyber Range LMS code base. The HCR LMS is based off of Moodle and follows the recommended coding practices for that platform.
+Heartland Cyber Range revision history. Descriptions of code updates and patch notes can be found here. The HCR LMS code base is maintained in a separate, private repo.
 
 ---
 
