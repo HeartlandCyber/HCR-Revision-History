@@ -1,4 +1,4 @@
-Heartland Cyber Range revision history. Descriptions of code updates and patch notes can be found here. The HCR LMS code base is maintained in a separate, private repo.
+Heartland Cyber Range revision history. Descriptions of code updates and patch notes can be found here. The HCR LMS code base is maintained in a separate, private repository.
 
 ---
 
